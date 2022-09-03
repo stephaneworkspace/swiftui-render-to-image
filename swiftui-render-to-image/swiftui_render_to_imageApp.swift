@@ -11,7 +11,7 @@ import SwiftUI
 struct swiftui_render_to_imageApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SnapshotView()
         }
     }
 }
