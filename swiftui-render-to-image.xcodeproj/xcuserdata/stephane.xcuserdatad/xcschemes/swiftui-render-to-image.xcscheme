@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F4E6032E28C3BD8D0004AA27"
+               BuildableName = "swiftui-render-to-image.app"
+               BlueprintName = "swiftui-render-to-image"
+               ReferencedContainer = "container:swiftui-render-to-image.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F4E6032E28C3BD8D0004AA27"
+            BuildableName = "swiftui-render-to-image.app"
+            BlueprintName = "swiftui-render-to-image"
+            ReferencedContainer = "container:swiftui-render-to-image.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
